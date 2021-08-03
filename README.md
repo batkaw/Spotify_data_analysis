@@ -58,3 +58,31 @@ Let's see the correlations between continous metrics
 
 
 
+
+
+## Modeling
+
+
+Data was split into a training (80%) and a test set (20%). Using Sklearn classes, this split can be made and fitted to the following model types
+
+* Decision TreeRegressor
+* Random ForestRegressor
+* Linear Regression 
+* GradientBoosting Regressor
+* Neural Network
+
+The aim of these modelsis to fit and train the data and test the accuracy of fit. I used GridSearhCV and BayesianOptimization to find the optimal hyperparameters for all the models. 
+
+### Model Evaluation 
+
+I used Root mean squared error (RMSE) and R squared (R2) to evaluate my models. The reason I have chosen R2 score here is that I'm working on regressor model rather than the classifier model. 
+
+![image](https://user-images.githubusercontent.com/43426359/128098443-9181bca9-6e76-4fe4-a735-f28654f79de2.png)
+
+
+
+![image](https://user-images.githubusercontent.com/43426359/128098471-099a8f63-c03d-4215-b930-a2a921c6c6ab.png)
+
+
+
+
