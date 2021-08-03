@@ -79,7 +79,7 @@ I used Root mean squared error (RMSE) and R squared (R2) to evaluate my models. 
 
 ![image](https://user-images.githubusercontent.com/43426359/128098443-9181bca9-6e76-4fe4-a735-f28654f79de2.png)
 
-
+Neural Network RMSE = 11.5288   R2 = 0.7209
 
 ![image](https://user-images.githubusercontent.com/43426359/128098471-099a8f63-c03d-4215-b930-a2a921c6c6ab.png)
 
