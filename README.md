@@ -44,5 +44,14 @@ Let's see the correlations between continous metrics
 ![image](https://user-images.githubusercontent.com/43426359/128095318-b924e41c-e6cc-4c4f-9889-0a30f8247779.png)
 
 
+### Features over the years
+
+![image](https://user-images.githubusercontent.com/43426359/128095510-4de796c7-3e2e-42c6-9aa8-aea66426f60a.png)
+
+
+1. Acoustiness has decreased significantly. Most tracks past 1960 used electric instruments and, especially past the 1980s, electronic sounds. Most recorded music today includes both electric and electronic elements.
+2. Danceability has varied significantly but has stayed mostly at the same level since 1980.
+3. Energy seems to be inversely related to Acoustiness: Was very low in the first part of the century, but then rose significantly after 1960. It looks like it increased even more after 2000 as well.
+
 
 
