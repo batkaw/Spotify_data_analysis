@@ -85,4 +85,15 @@ I used Root mean squared error (RMSE) and R squared (R2) to evaluate my models. 
 
 
 
+From the above analysis GradientBoostingRegressor have the most reliable result.
 
+
+## Summary 
+
+Overall, this was a very fun dataset to work with, and I am pleasantly surprised that I actually obtained fairly accurate results, especially with Gradient Boosting model. It is quite difficult to determine if a song will be a popular or not, and there appear to be other factors at play that are not necessarily included in this dataset.Other factors that influence if a song will be popular or not could potentially be:
+* Does a particular artist have any current name recognition?
+* Has this artist had any previous hits?
+* What is this artist's genre of music?
+* Has this artist collaborated with other popular artists?
+
+I assume that merging the data I have now with answers to some of the above questions would definitely allow for a much more accurate prediction of popularity scores.
